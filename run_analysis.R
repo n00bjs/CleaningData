@@ -17,7 +17,7 @@ xData <- rbind(xTrain, xTest)
 # Merge y_train and y_test
 yData <- rbind(yTrain, yTest)
 
-#merge subject_train adn subject_test
+#merge subject_train and subject_test
 subjectData <- rbind(subjectTrain, subjectTest)
 
 ##STEP 2
